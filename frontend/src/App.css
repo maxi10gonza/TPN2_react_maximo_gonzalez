@@ -1,0 +1,58 @@
+
+.App {
+  width: 90%;
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 15px;
+  text-align: center;
+  font-family: Arial;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.input-container {
+  margin-bottom: 15px;
+}
+
+input {
+  width: 70%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.validacion-mensaje {
+  color: green;
+  font-weight: bold;
+}
+
+.error-mensaje {
+  color: red;
+  font-weight: bold;
+}
+
+.saludo-container {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: #4cc882;
+  border-radius: 5px;
+}
